@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Etumusei\.android\build-cache\ee17d7d95c926b6d854411835a07c963f7c0cc4a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Etumusei\AndroidStudioProjects\ABOUTNORTHERNIRELAND\app\build\intermediates\pre-dexed\debug\classes_d9d2b0b1381c052e9726314ab4afedb585f4cdcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Etumusei\.android\build-cache\3d5b4c0a1075abc98ba581b05755fbab9faba154\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Etumusei\AndroidStudioProjects\ABOUTNORTHERNIRELAND\app\build\intermediates\pre-dexed\debug\classes_62d3e39a1416afacd864cd81774c087ec68cf193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Etumusei\.android\build-cache\9f1100d317f3a045c9f03a3b9734a089e0fc66cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Etumusei\AndroidStudioProjects\ABOUTNORTHERNIRELAND\app\build\intermediates\pre-dexed\debug\classes_7e0da3c4b4b8bccac0c065003ddeead7c3f902da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Etumusei\.android\build-cache\f8b8fe3802768e37ee45d8a847d03b60de087a7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Etumusei\AndroidStudioProjects\ABOUTNORTHERNIRELAND\app\build\intermediates\pre-dexed\debug\classes_0560531622a9a9691c46faaea5fe0ad2b2ea1f5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Etumusei\.android\build-cache\69aa515e026f25f3e3ec1363f7e9e406386fe5ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Etumusei\AndroidStudioProjects\ABOUTNORTHERNIRELAND\app\build\intermediates\pre-dexed\debug\classes_24c838b34a3d3601f2c565ab8c2a9486f7b5d344.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Etumusei\.android\build-cache\f9c0abddf85e52d0407170b0b57f575a702c5f5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Etumusei\AndroidStudioProjects\ABOUTNORTHERNIRELAND\app\build\intermediates\pre-dexed\debug\classes_fc805024cd4da44a89e5b76d473ee2a91ee993fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Etumusei\.android\build-cache\3101b86c6228dcbb9728bb834b3e943235e8f083\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Etumusei\AndroidStudioProjects\ABOUTNORTHERNIRELAND\app\build\intermediates\pre-dexed\debug\classes_1a948deaaadbdccb0128a07bef26ddbfe6790b53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Etumusei\.android\build-cache\3a59f1f9aa1f6b694e9a6b6b91a950ecf47cf772\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Etumusei\AndroidStudioProjects\ABOUTNORTHERNIRELAND\app\build\intermediates\pre-dexed\debug\classes_2e45c07e1cad8c5ce33ac63d893004640112eed2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Etumusei\.android\build-cache\dbd7854866ed256dd2c48b010b5253a337db7f5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Etumusei\AndroidStudioProjects\ABOUTNORTHERNIRELAND\app\build\intermediates\pre-dexed\debug\classes_6b83c227023754bc2f685e888228501ed2f18a2b.jar" />
+    </item>
+
+</items>

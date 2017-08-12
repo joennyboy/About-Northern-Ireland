@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ABOUT NORTHERN IRELAND</string>
+    <string name="Question1">"1. What continent is Northern Ireland situated?"</string>
+    <string name="Question2">"2. What is the Capital of Northern Ireland?"</string>
+    <string name="Question3">"3. What is Northern Ireland major religion?"</string>
+    <string name="Question4">"4. How many counties does Northern Ireland have?</string>
+    <string name="Question5">"5. Select two Tourists attraction centre in Northern Ireland</string>
+    <string name="Question6">"6. What year was the parliament of Northern Ireland established?</string>
+    <string name="texttop">QUIZ</string>
+    <string name="word1">Asia</string>
+    <string name="word2">America</string>
+    <string name="word3">Europe</string>
+    <string name="word4">Africa</string>
+    <string name="word5">Belfast</string>
+    <string name="word6">Dublin</string>
+    <string name="word7">London</string>
+    <string name="word8">Glasgow</string>
+    <string name="word9">Islam</string>
+    <string name="word10">Buddhist</string>
+    <string name="word11">Hindu</string>
+    <string name="word12">Christianity</string>
+    <string name="six">6</string>
+    <string name="nine">9</string>
+    <string name="ten">10</string>
+    <string name="twenty">20</string>
+    <string name="coast">Causeway Coast</string>
+    <string name="titanic">Titanic Belfast</string>
+    <string name="london">London Tower</string>
+    <string name="mountain">Mountain Everest</string>
+    <string name="score">Score</string>
+    <string name="answer">Answer</string>
+</resources>
